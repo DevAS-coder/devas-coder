@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-End Technologies<br>🤝 I’m looking for help with IDEA For Creating <br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web Development<br>⚡ DevAS is Stand for Developer And Amirhosein Sadeghian 💻<br>#open to work
+🔭 I’m currently working on Front-End Technologies<br>🤝 I’m looking for help with IDEA For Creating <br>🌱 I’m currently learning NextJS And Build Projects With ReactJS<br>💬 Ask me about Web Development<br>⚡ DevAS is Stand for Developer And Amirhosein Sadeghian 💻<br>#open to work
 
 
 ## 🌐 Socials:
